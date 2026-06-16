@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jheseny.com/sitemap.xml
+Sitemap: https://https://jheseworld.com/sitemap.xml

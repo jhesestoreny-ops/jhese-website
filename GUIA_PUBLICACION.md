@@ -72,13 +72,13 @@ Abre esa URL y verifica que todo funcione correctamente.
 
 ---
 
-## 🔗 PASO 4: CONECTAR TU DOMINIO jheseny.com
+## 🔗 PASO 4: CONECTAR TU DOMINIO https://jheseworld.com
 
 ### 4.1 En Vercel
 1. En tu proyecto, ve a **"Settings"** → **"Domains"**
-2. Escribe: `jheseny.com`
+2. Escribe: `https://jheseworld.com`
 3. Click en **"Add"**
-4. También agrega: `www.jheseny.com`
+4. También agrega: `www.https://jheseworld.com`
 
 Vercel te mostrará los **DNS records** que necesitas configurar.
 
@@ -86,7 +86,7 @@ Vercel te mostrará los **DNS records** que necesitas configurar.
 1. Ve a https://www.namecheap.com/myaccount/login/
 2. Inicia sesión
 3. Click en **"Domain List"**
-4. Encuentra `jheseny.com` y click en **"Manage"**
+4. Encuentra `https://jheseworld.com` y click en **"Manage"**
 
 **Opción A - Nameservers (MÁS FÁCIL - RECOMENDADO):**
 5. Ve a la sección **"Nameservers"**
@@ -105,7 +105,7 @@ Vercel te mostrará los **DNS records** que necesitas configurar.
 ### 4.3 Esperar propagación DNS
 ⏰ **Tiempo de espera:** 5 minutos a 48 horas (usualmente 30 minutos)
 
-Puedes verificar el progreso en: https://dnschecker.org/#A/jheseny.com
+Puedes verificar el progreso en: https://dnschecker.org/#A/https://jheseworld.com
 
 ---
 
@@ -114,7 +114,7 @@ Puedes verificar el progreso en: https://dnschecker.org/#A/jheseny.com
 ### 5.1 Google Search Console (IMPORTANTE)
 1. Ve a https://search.google.com/search-console/
 2. Click en **"Agregar propiedad"**
-3. Escribe: `jheseny.com`
+3. Escribe: `https://jheseworld.com`
 4. Verifica el dominio siguiendo las instrucciones
 5. Envía el sitemap:
    - Click en **"Sitemaps"** en el menú izquierdo
@@ -124,7 +124,7 @@ Puedes verificar el progreso en: https://dnschecker.org/#A/jheseny.com
 ### 5.2 Google Analytics (OPCIONAL - Para estadísticas)
 1. Ve a https://analytics.google.com/
 2. Click en **"Crear cuenta"**
-3. Configura una propiedad para `jheseny.com`
+3. Configura una propiedad para `https://jheseworld.com`
 4. Copia el código de seguimiento que te dan
 5. (Te ayudaré a agregarlo si lo quieres)
 
@@ -132,10 +132,10 @@ Puedes verificar el progreso en: https://dnschecker.org/#A/jheseny.com
 1. Ve a Google Search Console
 2. En el menú, click en **"Inspección de URLs"**
 3. Pega estas URLs una por una y click en "Solicitar indexación":
-   - `https://jheseny.com/`
-   - `https://jheseny.com/shop`
-   - `https://jheseny.com/about`
-   - `https://jheseny.com/contact`
+   - `https://https://jheseworld.com/`
+   - `https://https://jheseworld.com/shop`
+   - `https://https://jheseworld.com/about`
+   - `https://https://jheseworld.com/contact`
 
 ---
 
@@ -180,7 +180,7 @@ git push
 Antes de lanzar, verifica:
 
 - [ ] Sitio funcionando en Vercel URL temporal
-- [ ] Dominio jheseny.com conectado y funcionando
+- [ ] Dominio https://jheseworld.com conectado y funcionando
 - [ ] Todas las páginas se cargan correctamente
 - [ ] Imágenes se ven bien
 - [ ] Links de Instagram funcionan
