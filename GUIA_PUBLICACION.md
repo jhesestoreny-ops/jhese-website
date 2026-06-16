@@ -132,10 +132,10 @@ Puedes verificar el progreso en: https://dnschecker.org/#A/https://jheseworld.co
 1. Ve a Google Search Console
 2. En el menú, click en **"Inspección de URLs"**
 3. Pega estas URLs una por una y click en "Solicitar indexación":
-   - `https://https://jheseworld.com/`
-   - `https://https://jheseworld.com/shop`
-   - `https://https://jheseworld.com/about`
-   - `https://https://jheseworld.com/contact`
+   - `https://jheseworld.com/`
+   - `https://jheseworld.com/shop`
+   - `https://jheseworld.com/about`
+   - `https://jheseworld.com/contact`
 
 ---
 
